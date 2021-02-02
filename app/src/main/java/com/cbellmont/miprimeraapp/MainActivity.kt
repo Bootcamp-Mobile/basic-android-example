@@ -8,7 +8,7 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.mi_pantalla_radio)
+        setContentView(R.layout.mi_scroll_con_barra_abajo_constraint)
         /* DESCOMENTAR PARA PROBAR mi_scroll_view
         val textView = findViewById<TextView>(R.id.textoHolas)
         var texto = "Empezamossss....\n"
