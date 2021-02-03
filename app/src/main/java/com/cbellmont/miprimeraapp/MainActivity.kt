@@ -8,7 +8,7 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.mi_primer_scroll_lateral)
+        setContentView(R.layout.mis_tipos_de_letra)
         /* DESCOMENTAR PARA PROBAR mi_scroll_view
         val textView = findViewById<TextView>(R.id.textoHolas)
         var texto = "Empezamossss....\n"
